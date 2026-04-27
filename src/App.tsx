@@ -22,7 +22,7 @@ const MEME_DATA = [
    {
     bottomTextEn: "me waving to my neighbours dog",
     bottomTextRu: "я машу собаке соседей",
-    image: "/sponge.png",
+    image: "/sponge.jpg",
   },
 ];
 
