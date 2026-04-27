@@ -18,7 +18,12 @@ const MEME_DATA = [
     bottomTextEn: "Tastes good",
     bottomTextRu: "Вкусно",
     image: "/tore.jpg",
-  }
+  },
+   {
+    bottomTextEn: "me waving to my neighbours dog",
+    bottomTextRu: "я машу собаке соседей",
+    image: "/sponge.png",
+  },
 ];
 
 // Create a large array to simulate an infinite loop of your memes
