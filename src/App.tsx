@@ -31,6 +31,62 @@ const MEME_DATA = [
     bottomTextRu: "после того как потусовалась с ними",
     image: "/wallet.jpg",
   },
+   {
+    topTextEn: "meo showing my friends my wallet ",
+    bottomTextEn: "after hanging out with them",
+    topTextRu: "я показываю своим друзьям свой кошелёк",
+    bottomTextRu: "после того как потусовалась с ними",
+    image: "/wallet.jpg",
+  },
+   {
+    topTextEn: "me begging my sister ",
+    bottomTextEn: "to buy me food",
+    topTextRu: "я умоляю свою сестру ",
+    bottomTextRu: "купить мне еду",
+    image: "/madagascar.jpg",
+  },
+   {
+    topTextEn: "me showing my friends my wallet",
+    bottomTextEn: "after hanging out with them",
+    topTextRu: "я показываю своим друзьям свой кошелёк",
+    bottomTextRu: "после того как потусовалась с ними",
+    image: "/wallet.jpg",
+  },
+    {
+    topTextEn: "when I accidentally spill the tea",
+    bottomTextEn: "which I wasn't supposed to",
+    topTextRu: "когда случайно разболтал сплетню",
+    bottomTextRu: "которую не должен был",
+    image: "/littledude.jpg.jpeg",
+  },
+    {
+    topTextEn: "when the teacher asked me about",
+    bottomTextEn: "homework I wasn't even aware of",
+    topTextRu: "когда учитель спросил меня про",
+    bottomTextRu: "домашку, о которой я даже не знал",
+    image: "/aisara.jpg.jpeg",
+  },
+    {
+    topTextEn: "me looking at my brother",
+    bottomTextEn: "after I snitched on him",
+    topTextRu: "я смотрю на своего брата",
+    bottomTextRu: "после того как сдала его",
+    image: "/jerry.jpg.jpeg",
+  },
+    {
+    topTextEn: "how i feel when i'm the only one",
+    bottomTextEn: "who got the answer correct",
+    topTextRu: "как я себя чувствую когда я единственный",
+    bottomTextRu: "кто ответил правильно",
+    image: "/wallet.jpg",
+  },
+    {
+    topTextEn: "me trying to recall",
+    bottomTextEn: "what I had for breakfast",
+    topTextRu: "я пытаюсь вспомнить",
+    bottomTextRu: "что я ела на завтрак",
+    image: "/pingu.jpg.jpeg",
+  },
 ];
 
 // Create a large array to simulate an infinite loop of your memes
