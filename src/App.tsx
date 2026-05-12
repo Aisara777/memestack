@@ -79,6 +79,7 @@ const MEME_DATA = [
     topTextRu: "я пытаюсь вспомнить",
     bottomTextRu: "что я ела на завтрак",
     image: "/pingu.jpg.jpeg",
+   }, 
 ];
 
 // Create a large array to simulate an infinite loop of your memes
