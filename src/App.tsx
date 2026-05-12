@@ -64,7 +64,7 @@ const MEME_DATA = [
     bottomTextEn: "who got the answer correct",
     topTextRu: "как я себя чувствую когда я единственный",
     bottomTextRu: "кто ответил правильно",
-    image: "/mind.jpg.jpeg",
+    image: "/mind.jpg",
   },
     {
     topTextEn: "me trying to recall",
