@@ -8,16 +8,18 @@ import { Languages, ArrowLeft, ArrowRight } from 'lucide-react';
 // ==========================================
 const MEME_DATA = [
   {
-    topTextEn: "Nooo don't turn 25",
-    bottomTextEn: "you're so sexy aha",
-    topTextRu: "Нееет, только не 25",
-    bottomTextRu: "ты такая секси аха",
-    image: "/leo.png",
+    topTextEn: "me persuading my friend",
+    bottomTextEn: "to ask for me",
+    topTextRu: "я уговариваю свою подругу",
+    bottomTextRu: "что бы она для меня спросила",
+    image: "/sheep.jpg",
   },
   {
-    bottomTextEn: "Tastes good",
-    bottomTextRu: "Вкусно",
-    image: "/tore.jpg",
+    topTextEn: "me overhearing my name",
+    bottomTextEn: "in a conversation",
+    topTextRu: "я подслушала свое имя",
+    bottomTextRu: "в разговоре",
+    image: "/littlegirl.jpg",
   },
    {
     bottomTextEn: "me waving to my neighbours dog",
@@ -74,11 +76,11 @@ const MEME_DATA = [
     image: "/pingu.jpg",
    },
     {
-    topTextEn: "me trying to recall",
-    bottomTextEn: "what I had for breakfast",
-    topTextRu: "я пытаюсь вспомнить",
-    bottomTextRu: "что я ела на завтрак",
-    image: "/pingu.jpg.jpeg",
+    topTextEn: "me admiring myself",
+    bottomTextEn: "in the mirror",
+    topTextRu: "я восхищаюсь себя",
+    bottomTextRu: "в зеркале",
+    image: "/legoman.jpg",
    }, 
 ];
 
