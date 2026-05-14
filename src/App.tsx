@@ -89,13 +89,6 @@ const MEME_DATA = [
     bottomTextRu: "съел мою еду",
     image: "/GTA.jpg",
    }, 
-    {
-    topTextEn: "me when i noticed that",
-    bottomTextEn: "someone ate my food",
-    topTextRu: "я когда заметила что кто то",
-    bottomTextRu: "съел мою еду",
-    image: "/GTA.jpg",
-   }, 
 ];
 
 // Create a large array to simulate an infinite loop of your memes
