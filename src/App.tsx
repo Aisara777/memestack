@@ -82,6 +82,13 @@ const MEME_DATA = [
     bottomTextRu: "в зеркале",
     image: "/legoman.jpg",
    }, 
+  {
+    topTextEn: "",
+    bottomTextEn: "in the mirror",
+    topTextRu: "я восхищаюсь себя",
+    bottomTextRu: "в зеркале",
+    image: "/legoman.jpg",
+   }, 
 ];
 
 // Create a large array to simulate an infinite loop of your memes
