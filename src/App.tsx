@@ -83,11 +83,18 @@ const MEME_DATA = [
     image: "/legoman.jpg",
    }, 
   {
-    topTextEn: "",
-    bottomTextEn: "in the mirror",
-    topTextRu: "я восхищаюсь себя",
-    bottomTextRu: "в зеркале",
-    image: "/legoman.jpg",
+    topTextEn: "me when i noticed that",
+    bottomTextEn: "someone ate my food",
+    topTextRu: "я когда заметила что кто то",
+    bottomTextRu: "съел мою еду",
+    image: "/GTA.jpg",
+   }, 
+    {
+    topTextEn: "me when i noticed that",
+    bottomTextEn: "someone ate my food",
+    topTextRu: "я когда заметила что кто то",
+    bottomTextRu: "съел мою еду",
+    image: "/GTA.jpg",
    }, 
 ];
 
